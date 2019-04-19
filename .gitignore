@@ -1,1 +1,3 @@
 Disk.img
+00.BootLoader/BootLoader.bin
+01.Kernel32/VirtualOS.bin
